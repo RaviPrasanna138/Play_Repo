@@ -1,3 +1,5 @@
+// simple hello world program in java
+
 class Hello{
 public static void main(Strinng args[])
 System.out.print("Hello world");
